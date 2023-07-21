@@ -1,4 +1,4 @@
-# Phase One Microsoft
+# Phase One Microsoft Movie Analysis
 This is a preview for the phase one project
 
 # Project Overview
