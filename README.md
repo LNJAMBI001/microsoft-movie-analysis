@@ -25,11 +25,14 @@ This repository contains the following content:
 
 ## Results and Visualizations
 These are the results and visualizations for the movie analysis.
-To show the genres with the highest rating and revenue generation:
+To show the genres with the highest rating and revenue generation: T
 ![Bar chart visualization](https://user-images.githubusercontent.com/136591316/255580250-907e1ae1-a82c-4762-be7a-87522305b2e6.png)
 
 Histogram visualization to show the distribution frequency of the average rating:
 ![Histogram visualization](https://user-images.githubusercontent.com/136591316/255582520-c81e299d-0642-4039-9817-b6660dd902ad.png)
+
+Scatter plot visualization:Best performing studio
+![Scatter plot visualization](https://user-images.githubusercontent.com/136591316/255584015-6c588836-9840-4714-8612-679ec67d79d7.png)
 
 ## Recommendation section
 1.Strategic investment:
