@@ -25,7 +25,8 @@ This repository contains the following content:
 
 ## Results and Visualizations
 These are the results and visualizations for the movie analysis.
-...
+To show the genres with the highest rating and revenue generation, we use the bar chart below:
+![Bar chart visualization](https://user-images.githubusercontent.com/136591316/255580250-907e1ae1-a82c-4762-be7a-87522305b2e6.png)
 
 ## Recommendation section
 1.Strategic investment:
